@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /ghost/
+Sitemap: http://joshkerr.com/sitemap.xml
